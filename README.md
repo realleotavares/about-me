@@ -20,6 +20,7 @@ I work at the intersection of technological infrastructure and human psychology 
 
 ## 🛠️ Education & Certifications
 
+- **Bachelor's Degree in Business Administration with a major in Marketing** - UNI-RN
 - **Bachelor's Degree in Systems Analysis and Development** - UNINASSAU
 - **Postgraduate in Marketing and Growth** - Descomplica
 - **Brand Management & Image Crisis Certification** - FIA (Fundação Instituto de Administração)
@@ -58,6 +59,7 @@ Atuo na interseção entre infraestrutura tecnológica e psicologia humana para 
 
 ## 🛠️ Formação e Certificações
 
+- **Administração com Habilitação em Marketing** - UNI-RN
 - **Bacharelado em Análise e Desenvolvimento de Sistemas (ADS)** - UNINASSAU
 - **Pós-graduação em Marketing e Growth** - Descomplica
 - **Certificação em Gestão de Marca & Crise de Imagem** - FIA (Fundação Instituto de Administração)
