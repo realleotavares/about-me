@@ -30,7 +30,7 @@ I work at the intersection of technological infrastructure and human psychology 
 
 ## 📚 Selected Published Books
 
-*   *"Ansiedade S.A." (Anxiety Inc.)*
+*   *"Anxiety Inc.*
 *   *"Burnout Survivor"*
 *   *"MacAllister"* (Fiction)
 
