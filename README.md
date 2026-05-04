@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://ag.tavardt.com/img/LT-GH.png" alt="Leonardo Tavares" width="1456" />
+</p>
+
 [🇺🇸 English](#english) | [🇧🇷 Português](#português)
 
 <a id="english"></a>
