@@ -28,8 +28,9 @@ I work at the intersection of technological infrastructure and human psychology 
 - **Bachelor's Degree in Systems Analysis and Development** - UNINASSAU
 - **MBA in Digital Marketing and Sales** - Descomplica
 - **Postgraduate in Marketing and Growth** - Descomplica
-- **Brand Management & Image Crisis Certification** - FIA (Fundação Instituto de Administração)
-- **Blueprint eLearning** - Meta
+- **Project Management Professional Certificate** - Google
+- **Cybersecurity Professional Certificate** - Google
+- **Fundamentals in Cybersecurity** - Fortinet
 
 ---
 
@@ -39,7 +40,7 @@ I work at the intersection of technological infrastructure and human psychology 
 *   *"Burnout Survivor"*
 *   *"MacAllister"* (Fiction)
 
-🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/realleotavares)**
+🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
 
 ---
 <br>
@@ -68,8 +69,9 @@ Atuo na interseção entre infraestrutura tecnológica e psicologia humana para 
 - **Bacharelado em Análise e Desenvolvimento de Sistemas (ADS)** - UNINASSAU
 - **MBA em Marketing Digital e Vendas** - Descomplica
 - **Pós-graduação em Marketing e Growth** - Descomplica
-- **Certificação em Gestão de Marca & Crise de Imagem** - FIA (Fundação Instituto de Administração)
-- **Blueprint eLearning** - Meta
+- **Project Management Professional Certificate** - Google
+- **Cybersecurity Professional Certificate** - Google
+- **Fundamentals in Cybersecurity** - Fortinet
 
 ---
 
@@ -79,4 +81,4 @@ Atuo na interseção entre infraestrutura tecnológica e psicologia humana para 
 *   *"Derrotando o Burnout"*
 *   *"MacAllister"* (Ficção)
 
-🔗 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/realleotavares)**
+🔗 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
