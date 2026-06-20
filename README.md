@@ -48,12 +48,12 @@ An enterprise-grade QA repository demonstrating scalable testing strategies and 
 - **Concepts Applied:** Test Planning, Test Case Modeling, Manual Testing, Bug Reporting, **Accessibility (Axe-Core)**.
 - **Automation Stack:** Playwright (E2E UI Testing), Postman (API Testing), GitHub Actions (CI/CD Pipeline).
 
-### 🤖 [QA Robot Framework & Python](https://github.com/realleotavares/qa-robot-framework-python)
+### [QA Robot Framework & Python](https://github.com/realleotavares/qa-robot-framework-python)
 A dedicated repository demonstrating Behavior Driven Development (BDD) and keyword-driven testing to bridge the gap between business and engineering.
 - **Concepts Applied:** BDD, Gherkin, Keyword-Driven Testing, Business Alignment.
 - **Automation Stack:** Python, Robot Framework, Browser Library, GitHub Actions.
 
-🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
 
 ---
 <br>
@@ -102,9 +102,9 @@ Um repositório de QA com estrutura corporativa demonstrando estratégias de tes
 - **Conceitos Aplicados:** Planejamento de Testes, Modelagem de Casos de Teste, Testes Manuais, Reporte de Bugs, **Acessibilidade (Axe-Core)**.
 - **Stack de Automação:** Playwright (Testes E2E de UI), Postman (Testes de API), GitHub Actions (Pipeline CI/CD).
 
-### 🤖 [QA Robot Framework & Python](https://github.com/realleotavares/qa-robot-framework-python)
+### [QA Robot Framework & Python](https://github.com/realleotavares/qa-robot-framework-python)
 Um repositório dedicado demonstrando Behavior Driven Development (BDD) e testes baseados em palavras-chave para unir as áreas de negócios e engenharia.
 - **Conceitos Aplicados:** BDD, Gherkin, Testes Orientados a Palavras-chave, Alinhamento de Negócios.
 - **Stack de Automação:** Python, Robot Framework, Browser Library, GitHub Actions.
 
-🔗 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
+**[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
