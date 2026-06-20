@@ -45,10 +45,15 @@ I am a Software Quality Assurance Analyst focused on the Software Development an
 
 ### [Multi-Client QA Portfolio](https://github.com/realleotavares/portfolio-qa)
 An enterprise-grade QA repository demonstrating scalable testing strategies and automation across multiple clients.
-- **Concepts Applied:** Test Planning, Test Case Modeling, Manual Testing, Bug Reporting.
+- **Concepts Applied:** Test Planning, Test Case Modeling, Manual Testing, Bug Reporting, **Accessibility (Axe-Core)**.
 - **Automation Stack:** Playwright (E2E UI Testing), Postman (API Testing), GitHub Actions (CI/CD Pipeline).
 
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
+### 🤖 [QA Robot Framework & Python](https://github.com/realleotavares/qa-robot-framework-python)
+A dedicated repository demonstrating Behavior Driven Development (BDD) and keyword-driven testing to bridge the gap between business and engineering.
+- **Concepts Applied:** BDD, Gherkin, Keyword-Driven Testing, Business Alignment.
+- **Automation Stack:** Python, Robot Framework, Browser Library, GitHub Actions.
+
+🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
 
 ---
 <br>
@@ -94,7 +99,12 @@ Sou um Analista de Garantia de Qualidade de Software focado no Ciclo de Vida de 
 
 ### [Portfólio de QA Multi-Cliente](https://github.com/realleotavares/portfolio-qa)
 Um repositório de QA com estrutura corporativa demonstrando estratégias de teste e automação escalável para múltiplos clientes.
-- **Conceitos Aplicados:** Planejamento de Testes, Modelagem de Casos de Teste, Testes Manuais, Reporte de Bugs.
+- **Conceitos Aplicados:** Planejamento de Testes, Modelagem de Casos de Teste, Testes Manuais, Reporte de Bugs, **Acessibilidade (Axe-Core)**.
 - **Stack de Automação:** Playwright (Testes E2E de UI), Postman (Testes de API), GitHub Actions (Pipeline CI/CD).
 
-**[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
+### 🤖 [QA Robot Framework & Python](https://github.com/realleotavares/qa-robot-framework-python)
+Um repositório dedicado demonstrando Behavior Driven Development (BDD) e testes baseados em palavras-chave para unir as áreas de negócios e engenharia.
+- **Conceitos Aplicados:** BDD, Gherkin, Testes Orientados a Palavras-chave, Alinhamento de Negócios.
+- **Stack de Automação:** Python, Robot Framework, Browser Library, GitHub Actions.
+
+🔗 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
