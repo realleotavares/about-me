@@ -7,38 +7,37 @@
 <a id="english"></a>
 # 👋 Hi, I'm Leonardo Tavares
 
-**IT & Marketing Manager | +10 years in B2B Digital Transformation | Author of 10 International Books**
+**Junior Software Test Analyst (QA) | Quality Assurance & Test Automation**
 
-I work at the intersection of technological infrastructure and human psychology to drive B2B digital transformation. With over 10 years of experience in complex environments, I am the founder of **[TAVARDT](https://github.com/TAVARDT)**.
+I am a Software Quality Assurance Analyst focused on the Software Development and Software Testing Lifecycle (SDLC/STLC). With a solid background in tech management and operations, I transition business requirements into functional test scenarios to prevent defects and ensure technical compliance.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Specialist in **IT Infrastructure, Cybersecurity & Compliance, AI & Analytics**.
-- 📈 Extensive experience in **Growth Strategy, Design & Experience, and B2B Digital Transformation**.
-- 📚 I am the **author of 10 books** published internationally in 7 languages, including personal development works and fiction, available on Amazon, Google Books, and Apple Books.
-- 🏢 Previously held roles as Marketing & IT Coordinator in Oil & Gas companies (PETRUS Oil & Gas, SQC Well Control Company) managing 24/7 operations.
+- 💻 I specialize in **Manual & Automated Testing, Test Plan Modeling, and Defect Management**.
+- ⚙️ **Core Tech Stack:** Robot Framework, Python, SQL, Playwright, and Jira.
+- ☁️ Experience with cloud and enterprise testing, including ServiceNow ATF and Azure Cloud.
+- 🔄 Proficient in applying **Scrum and Kanban** methodologies to optimize QA workflows.
+- 📊 Currently working as a **Quality Coordinator Jr. @ Welo Data**, performing blind tests, data assurance, and Root Cause Analysis (RCA).
+- 🏢 Founder and Independent Consultant at **[TAVARDT](https://github.com/TAVARDT)**, planning and executing automation scripts for enterprise web applications.
 
 ---
 
-## 🛠️ Education & Certifications
+## 🛠️ Technical Skills
 
-- **Bachelor's Degree in Business Administration with a major in Marketing** - UNI-RN
-- **Bachelor's Degree in Systems Analysis and Development** - UNINASSAU
-- **MBA in Digital Marketing and Sales** - Descomplica
-- **Postgraduate in Marketing and Growth** - Descomplica
-- **Project Management Professional Certificate** - Google
-- **Cybersecurity Professional Certificate** - Google
-- **Fundamentals in Cybersecurity** - Fortinet
+- **Testing & QA:** Functional Testing, API Testing (REST), UAT, Test Planning.
+- **Tools & Languages:** Python, Robot Framework, Playwright, SQL, Git/GitHub, Linux.
+- **Agile & Process:** Scrum, Kanban, Requirements Engineering.
 
 ---
 
-## 📚 Selected Published Books
+## 🎓 Education & Certifications
 
-*   *"Anxiety Inc."*
-*   *"Burnout Survivor"*
-*   *"MacAllister"* (Fiction)
+- **Bachelor's Degree in Systems Analysis and Development** - UNINASSAU (In Progress)
+- **ServiceNow:** Agile and Test Management & Automated Test Framework (ATF)
+- **Google:** Automate Cybersecurity Tasks with Python, Agile Project Management
+- **Others:** APIs Discovery (Udacity), LLMs & Generative AI (DIO), Introduction to MCP (Anthropic)
 
 🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
 
@@ -48,37 +47,36 @@ I work at the intersection of technological infrastructure and human psychology 
 <a id="português"></a>
 # 👋 Olá, eu sou Leonardo Tavares
 
-**Gestor de Marketing & TI | +10 anos em transformação digital B2B | Autor de 10 Livros Internacionais**
+**Analista de Testes (QA) Júnior | Automação e Qualidade de Software**
 
-Atuo na interseção entre infraestrutura tecnológica e psicologia humana para impulsionar a transformação digital B2B. Com mais de 10 anos de experiência em ambientes complexos, sou fundador da **[TAVARDT](https://github.com/TAVARDT)**.
+Sou um Analista de Garantia de Qualidade de Software focado no Ciclo de Vida de Desenvolvimento e Testes (SDLC/STLC). Com uma base sólida em gestão técnica e operações, atuo na tradução de requisitos de negócios em cenários de testes funcionais, focado na prevenção de falhas e conformidade técnica.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 💻 Especialista em **Infraestrutura de TI, Cybersecurity & Compliance, IA & Analytics**.
-- 📈 Possuo vasta experiência em **Estratégia de Growth, Design & Experiência e Transformação Digital B2B**.
-- 📚 Sou **autor de 10 livros** publicados internacionalmente em 7 idiomas, incluindo obras de desenvolvimento pessoal e ficção, disponíveis na Amazon, Google Books e Apple Books.
-- 🏢 Tive passagens como Coordenador de Marketing & TI em empresas do setor de Óleo e Gás (PETRUS Oil & Gas, SQC Well Control Company) gerindo operações 24/7.
+- 💻 Especialista em **Testes Manuais e Automatizados, Modelagem de Planos de Teste e Gestão de Defeitos**.
+- ⚙️ **Stack Técnica Principal:** Robot Framework, Python, SQL, Playwright e Jira.
+- ☁️ Experiência em testes corporativos e em nuvem, incluindo ServiceNow ATF e Azure Cloud.
+- 🔄 Proficiente na aplicação de metodologias **Scrum e Kanban** para otimizar os fluxos de trabalho de QA.
+- 📊 Atualmente atuo como **Coordenador de Qualidade Jr. na Welo Data**, executando auditorias de dados, testes cegos e Análise de Causa Raiz (RCA).
+- 🏢 Consultor Independente na **[TAVARDT](https://github.com/TAVARDT)**, onde planejo e executo scripts de automação para aplicações web corporativas.
 
 ---
 
-## 🛠️ Formação e Certificações
+## 🛠️ Habilidades Técnicas
 
-- **Bacharelado em Administração com Habilitação em Marketing** - UNI-RN
-- **Bacharelado em Análise e Desenvolvimento de Sistemas (ADS)** - UNINASSAU
-- **MBA em Marketing Digital e Vendas** - Descomplica
-- **Pós-graduação em Marketing e Growth** - Descomplica
-- **Project Management Professional Certificate** - Google
-- **Cybersecurity Professional Certificate** - Google
-- **Fundamentals in Cybersecurity** - Fortinet
+- **Testes e QA:** Testes Funcionais, Testes de API (REST), UAT, Planejamento de Testes.
+- **Ferramentas e Linguagens:** Python, Robot Framework, Playwright, SQL, Git/GitHub, Linux.
+- **Agile e Processos:** Scrum, Kanban, Engenharia de Requisitos.
 
 ---
 
-## 📚 Alguns dos meus Livros Publicados
+## 🎓 Formação e Certificações
 
-*   *"Ansiedade S.A."*
-*   *"Derrotando o Burnout"*
-*   *"MacAllister"* (Ficção)
+- **Bacharelado em Análise e Desenvolvimento de Sistemas (ADS)** - UNINASSAU (Cursando)
+- **ServiceNow:** Agile and Test Management & Automated Test Framework (ATF)
+- **Google:** Automate Cybersecurity Tasks with Python, Agile Project Management
+- **Outras:** APIs Discovery (Udacity), LLMs & Generative AI (DIO), Introduction to MCP (Anthropic)
 
 🔗 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
