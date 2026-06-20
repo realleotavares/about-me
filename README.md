@@ -53,6 +53,15 @@ A dedicated repository demonstrating Behavior Driven Development (BDD) and keywo
 - **Concepts Applied:** BDD, Gherkin, Keyword-Driven Testing, Business Alignment.
 - **Automation Stack:** Python, Robot Framework, Browser Library, GitHub Actions.
 
+### [Pytest API Automation](https://github.com/realleotavares/pytest-api-automation)
+A backend quality assurance repository focused on programmatic API validation without graphical interfaces.
+- **Concepts Applied:** API Testing, Data Integrity Validation, Security Checks (400/403/405).
+- **Automation Stack:** Python, Pytest, Requests, GitHub Actions.
+
+### [K6 Performance Testing](https://github.com/realleotavares/k6-performance-testing)
+A performance engineering repository dedicated to stress and load testing for enterprise applications.
+- **Concepts Applied:** Throughput Analysis, Virtual Users (VUs) Simulation, Bottleneck Detection.
+- **Automation Stack:** JavaScript (ES6), Grafana k6, GitHub Actions.
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
 
 ---
@@ -107,4 +116,13 @@ Um repositório dedicado demonstrando Behavior Driven Development (BDD) e testes
 - **Conceitos Aplicados:** BDD, Gherkin, Testes Orientados a Palavras-chave, Alinhamento de Negócios.
 - **Stack de Automação:** Python, Robot Framework, Browser Library, GitHub Actions.
 
+### [Automação de API com Pytest](https://github.com/realleotavares/pytest-api-automation)
+Um repositório de garantia de qualidade de backend focado na validação programática de APIs sem interfaces gráficas.
+- **Conceitos Aplicados:** Testes de API, Validação de Integridade de Dados, Checagens de Segurança (400/403/405).
+- **Stack de Automação:** Python, Pytest, Requests, GitHub Actions.
+
+### [Testes de Performance com K6](https://github.com/realleotavares/k6-performance-testing)
+Um repositório de engenharia de performance dedicado a testes de estresse e carga para aplicações corporativas.
+- **Conceitos Aplicados:** Análise de Throughput, Simulação de Usuários Virtuais (VUs), Detecção de Gargalos.
+- **Stack de Automação:** JavaScript (ES6), Grafana k6, GitHub Actions.
 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
