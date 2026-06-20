@@ -39,6 +39,15 @@ I am a Software Quality Assurance Analyst focused on the Software Development an
 - **Google:** Automate Cybersecurity Tasks with Python, Agile Project Management
 - **Others:** APIs Discovery (Udacity), LLMs & Generative AI (DIO), Introduction to MCP (Anthropic)
 
+---
+
+## 📂 Featured Projects
+
+### 🧪 [Multi-Client QA Portfolio](https://github.com/realleotavares/portfolio-qa)
+An enterprise-grade QA repository demonstrating scalable testing strategies and automation across multiple clients.
+- **Concepts Applied:** Test Planning, Test Case Modeling, Manual Testing, Bug Reporting.
+- **Automation Stack:** Playwright (E2E UI Testing), Postman (API Testing), GitHub Actions (CI/CD Pipeline).
+
 🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
 
 ---
@@ -78,5 +87,14 @@ Sou um Analista de Garantia de Qualidade de Software focado no Ciclo de Vida de 
 - **ServiceNow:** Agile and Test Management & Automated Test Framework (ATF)
 - **Google:** Automate Cybersecurity Tasks with Python, Agile Project Management
 - **Outras:** APIs Discovery (Udacity), LLMs & Generative AI (DIO), Introduction to MCP (Anthropic)
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🧪 [Portfólio de QA Multi-Cliente](https://github.com/realleotavares/portfolio-qa)
+Um repositório de QA com estrutura corporativa demonstrando estratégias de teste e automação escalável para múltiplos clientes.
+- **Conceitos Aplicados:** Planejamento de Testes, Modelagem de Casos de Teste, Testes Manuais, Reporte de Bugs.
+- **Stack de Automação:** Playwright (Testes E2E de UI), Postman (Testes de API), GitHub Actions (Pipeline CI/CD).
 
 🔗 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
