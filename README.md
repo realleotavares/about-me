@@ -62,6 +62,9 @@ A backend quality assurance repository focused on programmatic API validation wi
 A performance engineering repository dedicated to stress and load testing for enterprise applications.
 - **Concepts Applied:** Throughput Analysis, Virtual Users (VUs) Simulation, Bottleneck Detection.
 - **Automation Stack:** JavaScript (ES6), Grafana k6, GitHub Actions.
+
+---
+
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
 
 ---
@@ -125,4 +128,7 @@ Um repositório de garantia de qualidade de backend focado na validação progra
 Um repositório de engenharia de performance dedicado a testes de estresse e carga para aplicações corporativas.
 - **Conceitos Aplicados:** Análise de Throughput, Simulação de Usuários Virtuais (VUs), Detecção de Gargalos.
 - **Stack de Automação:** JavaScript (ES6), Grafana k6, GitHub Actions.
+
+---
+
 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
