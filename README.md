@@ -9,18 +9,18 @@
 
 **Junior Software Test Analyst (QA) | Quality Assurance & Test Automation**
 
-I am a Software Quality Assurance Analyst focused on the Software Development and Software Testing Lifecycle (SDLC/STLC). With a solid background in tech management and operations, I transition business requirements into functional test scenarios to prevent defects and ensure technical compliance.
+I am a Software Quality Assurance Analyst focused on the Software Development and Software Testing Lifecycle (SDLC/STLC). My main goal is to transition business requirements into functional test scenarios to prevent defects and ensure technical compliance.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I specialize in **Manual & Automated Testing, Test Plan Modeling, and Defect Management**.
+- 💻 I have practical experience with **Manual & Automated Testing, Test Plan Modeling, and Defect Management**.
 - ⚙️ **Core Tech Stack:** Robot Framework, Python, SQL, Playwright, and Jira.
 - ☁️ Experience with cloud and enterprise testing, including ServiceNow ATF and Azure Cloud.
 - 🔄 Proficient in applying **Scrum and Kanban** methodologies to optimize QA workflows.
 - 📊 Currently working as a **Quality Coordinator Jr. @ Welo Data**, performing blind tests, data assurance, and Root Cause Analysis (RCA).
-- 🏢 Founder and Independent Consultant at **[TAVARDT](https://github.com/TAVARDT)**, planning and executing automation scripts for enterprise web applications.
+- 🏢 Independent QA Consultant at **[TAVARDT](https://github.com/TAVARDT)**, planning and executing automation scripts for enterprise web applications.
 
 ---
 
@@ -49,18 +49,18 @@ I am a Software Quality Assurance Analyst focused on the Software Development an
 
 **Analista de Testes (QA) Júnior | Automação e Qualidade de Software**
 
-Sou um Analista de Garantia de Qualidade de Software focado no Ciclo de Vida de Desenvolvimento e Testes (SDLC/STLC). Com uma base sólida em gestão técnica e operações, atuo na tradução de requisitos de negócios em cenários de testes funcionais, focado na prevenção de falhas e conformidade técnica.
+Sou um Analista de Garantia de Qualidade de Software focado no Ciclo de Vida de Desenvolvimento e Testes (SDLC/STLC). Meu principal objetivo é atuar na tradução de requisitos de negócios em cenários de testes funcionais, focado na prevenção de falhas e conformidade técnica.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 💻 Especialista em **Testes Manuais e Automatizados, Modelagem de Planos de Teste e Gestão de Defeitos**.
+- 💻 Experiência prática com **Testes Manuais e Automatizados, Modelagem de Planos de Teste e Gestão de Defeitos**.
 - ⚙️ **Stack Técnica Principal:** Robot Framework, Python, SQL, Playwright e Jira.
 - ☁️ Experiência em testes corporativos e em nuvem, incluindo ServiceNow ATF e Azure Cloud.
 - 🔄 Proficiente na aplicação de metodologias **Scrum e Kanban** para otimizar os fluxos de trabalho de QA.
 - 📊 Atualmente atuo como **Coordenador de Qualidade Jr. na Welo Data**, executando auditorias de dados, testes cegos e Análise de Causa Raiz (RCA).
-- 🏢 Consultor Independente na **[TAVARDT](https://github.com/TAVARDT)**, onde planejo e executo scripts de automação para aplicações web corporativas.
+- 🏢 Consultor QA Independente na **[TAVARDT](https://github.com/TAVARDT)**, onde planejo e executo scripts de automação para aplicações web corporativas.
 
 ---
 
