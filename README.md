@@ -35,9 +35,10 @@ I am a Software Quality Assurance Analyst focused on the Software Development an
 ## Education & Certifications
 
 - **Bachelor's Degree in Systems Analysis and Development** - UNINASSAU (In Progress)
+- **Bachelor's Degree in Business Administration** - (2010)
 - **Microsoft:** AZ-400 DevOps (CI/CD, Release Strategies & GitHub Actions)
 - **ServiceNow:** Agile and Test Management & Automated Test Framework (ATF)
-- **Google:** Automate Cybersecurity Tasks with Python
+- **Google:** Agile Project Management & Automate Cybersecurity Tasks
 - **LinkedIn:** Software Testing & Quality Assurance Foundations
 - **Anthropic & Udacity:** Model Context Protocol (MCP) & Discovering APIs
 
@@ -106,9 +107,10 @@ Sou um Analista de Garantia de Qualidade de Software focado no Ciclo de Vida de 
 ## Formação e Certificações
 
 - **Bacharelado em Análise e Desenvolvimento de Sistemas (ADS)** - UNINASSAU (Cursando)
+- **Bacharelado em Administração de Empresas** - (2010)
 - **Microsoft:** AZ-400 DevOps (CI/CD, Estratégias de Release e GitHub Actions)
 - **ServiceNow:** Agile and Test Management & Automated Test Framework (ATF)
-- **Google:** Automate Cybersecurity Tasks with Python
+- **Google:** Agile Project Management & Automate Cybersecurity Tasks
 - **LinkedIn:** Fundamentos de Programação: Teste de Software e Garantia de Qualidade
 - **Anthropic & Udacity:** Model Context Protocol (MCP) & Descobrindo APIs
 
