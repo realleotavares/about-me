@@ -35,32 +35,37 @@ I am a Software Quality Assurance Analyst focused on the Software Development an
 ## Education & Certifications
 
 - **Bachelor's Degree in Systems Analysis and Development** - UNINASSAU (In Progress)
+- **Microsoft:** AZ-400 DevOps (CI/CD, Release Strategies & GitHub Actions)
 - **ServiceNow:** Agile and Test Management & Automated Test Framework (ATF)
-- **Google:** Automate Cybersecurity Tasks with Python, Agile Project Management
-- **Others:** APIs Discovery (Udacity), LLMs & Generative AI (DIO), Introduction to MCP (Anthropic)
+- **Google:** Automate Cybersecurity Tasks with Python
+- **LinkedIn:** Software Testing & Quality Assurance Foundations
+- **Anthropic & Udacity:** Model Context Protocol (MCP) & Discovering APIs
 
 ---
 
 ## Featured Projects
 
-### [Multi-Client QA Portfolio](https://github.com/realleotavares/portfolio-qa)
-An enterprise-grade QA repository demonstrating scalable testing strategies and automation across multiple clients.
-- **Concepts Applied:** Test Planning, Test Case Modeling, Manual Testing, Bug Reporting, **Accessibility (Axe-Core)**.
-- **Automation Stack:** Playwright (E2E UI Testing), Postman (API Testing), GitHub Actions (CI/CD Pipeline).
+### [QA Engineering Portfolio Hub](https://github.com/realleotavares/portfolio-qa)
+The central hub and index showcasing my complete test automation ecosystem and modern testing pyramid architecture.
 
-### [QA Robot Framework & Python](https://github.com/realleotavares/qa-robot-framework-python)
-A dedicated repository demonstrating Behavior Driven Development (BDD) and keyword-driven testing to bridge the gap between business and engineering.
-- **Concepts Applied:** BDD, Gherkin, Keyword-Driven Testing, Business Alignment.
-- **Automation Stack:** Python, Robot Framework, Browser Library, GitHub Actions.
+### [Playwright E2E Architecture](https://github.com/realleotavares/playwright-e2e-automation)
+An enterprise-grade QA repository demonstrating scalable testing strategies and automation across multiple clients.
+- **Concepts Applied:** Defect Prediction, Race Conditions, Optimistic UI, Bug Reporting, **Accessibility (Axe-Core)**.
+- **Automation Stack:** Playwright (E2E UI Testing), Postman (API Testing), GitHub Actions (CI/CD Pipeline).
 
 ### [Pytest API Automation](https://github.com/realleotavares/pytest-api-automation)
 A backend quality assurance repository focused on programmatic API validation without graphical interfaces.
-- **Concepts Applied:** API Testing, Data Integrity Validation, Security Checks (400/403/405).
-- **Automation Stack:** Python, Pytest, Requests, GitHub Actions.
+- **Concepts Applied:** Backend Validation, Data Integrity, Security Checks (400/403/405).
+- **Automation Stack:** Python, Pytest, Requests, GitHub Actions, Allure Reports.
+
+### [QA Robot Framework & Python](https://github.com/realleotavares/qa-robot-framework-python)
+A dedicated repository demonstrating Behavior Driven Development (BDD) and keyword-driven testing to bridge the gap between business and engineering.
+- **Concepts Applied:** BDD, Gherkin, Keyword-Driven Testing, Enterprise Modularity.
+- **Automation Stack:** Python, Robot Framework, Browser Library, GitHub Actions.
 
 ### [K6 Performance Testing](https://github.com/realleotavares/k6-performance-testing)
 A performance engineering repository dedicated to stress and load testing for enterprise applications.
-- **Concepts Applied:** Throughput Analysis, Virtual Users (VUs) Simulation, Bottleneck Detection.
+- **Concepts Applied:** Throughput Analysis, Virtual Users (VUs) Simulation, p(95) SLAs, Bottleneck Detection.
 - **Automation Stack:** JavaScript (ES6), Grafana k6, GitHub Actions.
 
 ---
@@ -101,34 +106,40 @@ Sou um Analista de Garantia de Qualidade de Software focado no Ciclo de Vida de 
 ## Formação e Certificações
 
 - **Bacharelado em Análise e Desenvolvimento de Sistemas (ADS)** - UNINASSAU (Cursando)
+- **Microsoft:** AZ-400 DevOps (CI/CD, Estratégias de Release e GitHub Actions)
 - **ServiceNow:** Agile and Test Management & Automated Test Framework (ATF)
-- **Google:** Automate Cybersecurity Tasks with Python, Agile Project Management
-- **Outras:** APIs Discovery (Udacity), LLMs & Generative AI (DIO), Introduction to MCP (Anthropic)
+- **Google:** Automate Cybersecurity Tasks with Python
+- **LinkedIn:** Fundamentos de Programação: Teste de Software e Garantia de Qualidade
+- **Anthropic & Udacity:** Model Context Protocol (MCP) & Descobrindo APIs
 
 ---
 
 ## Projetos em Destaque
 
-### [Portfólio de QA Multi-Cliente](https://github.com/realleotavares/portfolio-qa)
-Um repositório de QA com estrutura corporativa demonstrando estratégias de teste e automação escalável para múltiplos clientes.
-- **Conceitos Aplicados:** Planejamento de Testes, Modelagem de Casos de Teste, Testes Manuais, Reporte de Bugs, **Acessibilidade (Axe-Core)**.
-- **Stack de Automação:** Playwright (Testes E2E de UI), Postman (Testes de API), GitHub Actions (Pipeline CI/CD).
+### [Hub do Portfólio de Engenharia QA](https://github.com/realleotavares/portfolio-qa)
+O hub central e índice que demonstra a arquitetura completa do meu ecossistema de automação através da pirâmide de testes moderna.
 
-### [QA Robot Framework & Python](https://github.com/realleotavares/qa-robot-framework-python)
-Um repositório dedicado demonstrando Behavior Driven Development (BDD) e testes baseados em palavras-chave para unir as áreas de negócios e engenharia.
-- **Conceitos Aplicados:** BDD, Gherkin, Testes Orientados a Palavras-chave, Alinhamento de Negócios.
-- **Stack de Automação:** Python, Robot Framework, Browser Library, GitHub Actions.
+### [Playwright E2E Architecture](https://github.com/realleotavares/playwright-e2e-automation)
+Um repositório de QA com estrutura corporativa demonstrando estratégias de teste e automação escalável para múltiplos clientes.
+- **Conceitos Aplicados:** Previsão de Defeitos, Race Conditions, Optimistic UI, Reporte de Bugs, **Acessibilidade (Axe-Core)**.
+- **Stack de Automação:** Playwright (Testes E2E de UI), Postman (Testes de API), GitHub Actions (Pipeline CI/CD).
 
 ### [Automação de API com Pytest](https://github.com/realleotavares/pytest-api-automation)
 Um repositório de garantia de qualidade de backend focado na validação programática de APIs sem interfaces gráficas.
-- **Conceitos Aplicados:** Testes de API, Validação de Integridade de Dados, Checagens de Segurança (400/403/405).
-- **Stack de Automação:** Python, Pytest, Requests, GitHub Actions.
+- **Conceitos Aplicados:** Validação de Backend, Integridade de Dados, Checagens de Segurança (400/403/405).
+- **Stack de Automação:** Python, Pytest, Requests, GitHub Actions, Allure Reports.
+
+### [QA Robot Framework & Python](https://github.com/realleotavares/qa-robot-framework-python)
+Um repositório dedicado demonstrando Behavior Driven Development (BDD) e testes baseados em palavras-chave para unir as áreas de negócios e engenharia.
+- **Conceitos Aplicados:** BDD, Gherkin, Testes Orientados a Palavras-chave, Modularidade Corporativa.
+- **Stack de Automação:** Python, Robot Framework, Browser Library, GitHub Actions.
 
 ### [Testes de Performance com K6](https://github.com/realleotavares/k6-performance-testing)
 Um repositório de engenharia de performance dedicado a testes de estresse e carga para aplicações corporativas.
-- **Conceitos Aplicados:** Análise de Throughput, Simulação de Usuários Virtuais (VUs), Detecção de Gargalos.
+- **Conceitos Aplicados:** Análise de Throughput, Simulação de Usuários Virtuais (VUs), SLAs p(95), Detecção de Gargalos.
 - **Stack de Automação:** JavaScript (ES6), Grafana k6, GitHub Actions.
 
 ---
 
 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
+
