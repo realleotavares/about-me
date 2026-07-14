@@ -2,80 +2,7 @@
   <img src="https://ag.tavardt.com/img/LT-GH.png" alt="Leonardo Tavares" width="1456" />
 </p>
 
-[🇺🇸 English](#english) | [🇧🇷 Português](#português) | [🇪🇸 Español](#español)
-
-<a id="english"></a>
-# Hi, I'm Leonardo Tavares
-
-**Junior Software Test Analyst (QA) | Quality Assurance & Test Automation**
-
-I am a Software Quality Assurance Analyst focused on the Software Development and Software Testing Lifecycle (SDLC/STLC). My main goal is to transition business requirements into functional test scenarios to prevent defects and ensure technical compliance.
-
----
-
-## About Me
-
-- I have practical experience with **Manual & Automated Testing, Test Plan Modeling, and Defect Management**.
-- **Core Tech Stack:** Robot Framework, Python, SQL, Playwright, and Jira.
-- Experience with cloud and enterprise testing, including ServiceNow ATF and Azure Cloud.
-- Proficient in applying **Scrum and Kanban** methodologies to optimize QA workflows.
-- Currently working as a **Quality Coordinator Jr. @ Welo Data**, performing blind tests, data assurance, and Root Cause Analysis (RCA).
-- Independent QA Consultant at **[TAVARDT](https://github.com/TAVARDT)**, planning and executing automation scripts for enterprise web applications.
-
----
-
-## Technical Skills
-
-- **Testing & QA:** Functional Testing, API Testing (REST), UAT, Test Planning.
-- **Tools & Languages:** Python, Robot Framework, Playwright, SQL, Git/GitHub, Linux.
-- **Agile & Process:** Scrum, Kanban, Requirements Engineering.
-
----
-
-## Education & Certifications
-
-- **Bachelor's Degree in Systems Analysis and Development** - UNINASSAU (In Progress)
-- **Bachelor's Degree in Business Administration** - (2010)
-- **Microsoft:** AZ-400 DevOps (CI/CD, Release Strategies & GitHub Actions)
-- **ServiceNow:** Agile and Test Management & Automated Test Framework (ATF)
-- **Google:** Agile Project Management & Automate Cybersecurity Tasks
-- **LinkedIn:** Software Testing & Quality Assurance Foundations
-- **Anthropic & Udacity:** Model Context Protocol (MCP) & Discovering APIs
-
----
-
-## Featured Projects
-
-### [QA Engineering Portfolio Monorepo](https://github.com/realleotavares/portfolio-qa)
-The central hub and index showcasing my complete test automation ecosystem and modern testing pyramid architecture.
-🌍 **[View Live QA Reports Hub](https://realleotavares.github.io/portfolio-qa/)** generated automatically by the CI/CD pipeline.
-
-### [Playwright E2E Architecture](https://github.com/realleotavares/portfolio-qa/tree/main/e2e-playwright)
-An enterprise-grade QA module demonstrating scalable testing strategies and frontend automation.
-- **Concepts Applied:** Defect Prediction, Race Conditions, Optimistic UI, Bug Reporting, **Accessibility (Axe-Core)**.
-- **Automation Stack:** Playwright (E2E UI Testing), GitHub Actions (CI/CD Pipeline).
-
-### [Pytest API Automation](https://github.com/realleotavares/portfolio-qa/tree/main/api-pytest)
-A backend quality assurance module focused on programmatic API validation without graphical interfaces.
-- **Concepts Applied:** Backend Validation, Data Integrity, Security Checks (400/403/405).
-- **Automation Stack:** Python, Pytest, Requests, GitHub Actions, Allure Reports.
-
-### [QA Robot Framework & Python](https://github.com/realleotavares/portfolio-qa/tree/main/e2e-robot)
-A dedicated module demonstrating Behavior Driven Development (BDD) and keyword-driven testing to bridge the gap between business and engineering.
-- **Concepts Applied:** BDD, Gherkin, Keyword-Driven Testing, Enterprise Modularity.
-- **Automation Stack:** Python, Robot Framework, Browser Library, GitHub Actions.
-
-### [K6 Performance Testing](https://github.com/realleotavares/portfolio-qa/tree/main/performance-k6)
-A performance engineering module dedicated to stress and load testing for enterprise applications.
-- **Concepts Applied:** Throughput Analysis, Virtual Users (VUs) Simulation, p(95) SLAs, Bottleneck Detection.
-- **Automation Stack:** JavaScript (ES6), Grafana k6, GitHub Actions.
-
----
-
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
-
----
-<br>
+[🇧🇷 Português](#português) | [🇺🇸 English](#english) | [🇪🇸 Español](#español)
 
 <a id="português"></a>
 # Olá, eu sou Leonardo Tavares
@@ -146,6 +73,79 @@ Um módulo de engenharia de performance dedicado a testes de estresse e carga pa
 ---
 
 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leovtavares/)**
+
+---
+<br>
+
+<a id="english"></a>
+# Hi, I'm Leonardo Tavares
+
+**Junior Software Test Analyst (QA) | Quality Assurance & Test Automation**
+
+I am a Software Quality Assurance Analyst focused on the Software Development and Software Testing Lifecycle (SDLC/STLC). My main goal is to transition business requirements into functional test scenarios to prevent defects and ensure technical compliance.
+
+---
+
+## About Me
+
+- I have practical experience with **Manual & Automated Testing, Test Plan Modeling, and Defect Management**.
+- **Core Tech Stack:** Robot Framework, Python, SQL, Playwright, and Jira.
+- Experience with cloud and enterprise testing, including ServiceNow ATF and Azure Cloud.
+- Proficient in applying **Scrum and Kanban** methodologies to optimize QA workflows.
+- Currently working as a **Quality Coordinator Jr. @ Welo Data**, performing blind tests, data assurance, and Root Cause Analysis (RCA).
+- Independent QA Consultant at **[TAVARDT](https://github.com/TAVARDT)**, planning and executing automation scripts for enterprise web applications.
+
+---
+
+## Technical Skills
+
+- **Testing & QA:** Functional Testing, API Testing (REST), UAT, Test Planning.
+- **Tools & Languages:** Python, Robot Framework, Playwright, SQL, Git/GitHub, Linux.
+- **Agile & Process:** Scrum, Kanban, Requirements Engineering.
+
+---
+
+## Education & Certifications
+
+- **Bachelor's Degree in Systems Analysis and Development** - UNINASSAU (In Progress)
+- **Bachelor's Degree in Business Administration** - (2010)
+- **Microsoft:** AZ-400 DevOps (CI/CD, Release Strategies & GitHub Actions)
+- **ServiceNow:** Agile and Test Management & Automated Test Framework (ATF)
+- **Google:** Agile Project Management & Automate Cybersecurity Tasks
+- **LinkedIn:** Software Testing & Quality Assurance Foundations
+- **Anthropic & Udacity:** Model Context Protocol (MCP) & Discovering APIs
+
+---
+
+## Featured Projects
+
+### [QA Engineering Portfolio Monorepo](https://github.com/realleotavares/portfolio-qa)
+The central hub and index showcasing my complete test automation ecosystem and modern testing pyramid architecture.
+🌍 **[View Live QA Reports Hub](https://realleotavares.github.io/portfolio-qa/)** generated automatically by the CI/CD pipeline.
+
+### [Playwright E2E Architecture](https://github.com/realleotavares/portfolio-qa/tree/main/e2e-playwright)
+An enterprise-grade QA module demonstrating scalable testing strategies and frontend automation.
+- **Concepts Applied:** Defect Prediction, Race Conditions, Optimistic UI, Bug Reporting, **Accessibility (Axe-Core)**.
+- **Automation Stack:** Playwright (E2E UI Testing), GitHub Actions (CI/CD Pipeline).
+
+### [Pytest API Automation](https://github.com/realleotavares/portfolio-qa/tree/main/api-pytest)
+A backend quality assurance module focused on programmatic API validation without graphical interfaces.
+- **Concepts Applied:** Backend Validation, Data Integrity, Security Checks (400/403/405).
+- **Automation Stack:** Python, Pytest, Requests, GitHub Actions, Allure Reports.
+
+### [QA Robot Framework & Python](https://github.com/realleotavares/portfolio-qa/tree/main/e2e-robot)
+A dedicated module demonstrating Behavior Driven Development (BDD) and keyword-driven testing to bridge the gap between business and engineering.
+- **Concepts Applied:** BDD, Gherkin, Keyword-Driven Testing, Enterprise Modularity.
+- **Automation Stack:** Python, Robot Framework, Browser Library, GitHub Actions.
+
+### [K6 Performance Testing](https://github.com/realleotavares/portfolio-qa/tree/main/performance-k6)
+A performance engineering module dedicated to stress and load testing for enterprise applications.
+- **Concepts Applied:** Throughput Analysis, Virtual Users (VUs) Simulation, p(95) SLAs, Bottleneck Detection.
+- **Automation Stack:** JavaScript (ES6), Grafana k6, GitHub Actions.
+
+---
+
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/leovtavares/)**
 
 ---
 <br>
