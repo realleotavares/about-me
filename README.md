@@ -7,7 +7,7 @@
 <a id="português"></a>
 # Olá, eu sou Leonardo Tavares
 
-**Analista de Testes (QA) Júnior | Automação e Qualidade de Software**
+**Analista de Testes (QA) | Automação e Qualidade de Software**
 
 Sou um Analista de Garantia de Qualidade de Software focado no Ciclo de Vida de Desenvolvimento e Testes (SDLC/STLC). Meu principal objetivo é atuar na tradução de requisitos de negócios em cenários de testes funcionais, focado na prevenção de falhas e conformidade técnica.
 
@@ -48,7 +48,7 @@ Sou um Analista de Garantia de Qualidade de Software focado no Ciclo de Vida de 
 
 ### [Hub do Portfólio de Engenharia QA (Monorepo)](https://github.com/realleotavares/portfolio-qa)
 O hub central e índice que demonstra a arquitetura completa do meu ecossistema de automação através da pirâmide de testes moderna.
-🌍 **[Acessar Hub de Relatórios Ao Vivo](https://realleotavares.github.io/portfolio-qa/)** gerado de forma contínua pela pipeline CI/CD.
+**[Acessar Hub de Relatórios Ao Vivo](https://realleotavares.github.io/portfolio-qa/)** gerado de forma contínua pela pipeline CI/CD.
 
 ### [Playwright E2E Architecture](https://github.com/realleotavares/portfolio-qa/tree/main/e2e-playwright)
 Um módulo de QA com estrutura corporativa demonstrando estratégias de teste e automação escalável de frontend.
@@ -80,7 +80,7 @@ Um módulo de engenharia de performance dedicado a testes de estresse e carga pa
 <a id="english"></a>
 # Hi, I'm Leonardo Tavares
 
-**Junior Software Test Analyst (QA) | Quality Assurance & Test Automation**
+**Software Test Analyst (QA) | Quality Assurance & Test Automation**
 
 I am a Software Quality Assurance Analyst focused on the Software Development and Software Testing Lifecycle (SDLC/STLC). My main goal is to transition business requirements into functional test scenarios to prevent defects and ensure technical compliance.
 
@@ -121,7 +121,7 @@ I am a Software Quality Assurance Analyst focused on the Software Development an
 
 ### [QA Engineering Portfolio Monorepo](https://github.com/realleotavares/portfolio-qa)
 The central hub and index showcasing my complete test automation ecosystem and modern testing pyramid architecture.
-🌍 **[View Live QA Reports Hub](https://realleotavares.github.io/portfolio-qa/)** generated automatically by the CI/CD pipeline.
+**[View Live QA Reports Hub](https://realleotavares.github.io/portfolio-qa/)** generated automatically by the CI/CD pipeline.
 
 ### [Playwright E2E Architecture](https://github.com/realleotavares/portfolio-qa/tree/main/e2e-playwright)
 An enterprise-grade QA module demonstrating scalable testing strategies and frontend automation.
@@ -153,7 +153,7 @@ A performance engineering module dedicated to stress and load testing for enterp
 <a id="español"></a>
 # Hola, soy Leonardo Tavares
 
-**Analista de Pruebas de Software (QA) Junior | Aseguramiento de Calidad y Automatización**
+**Analista de Pruebas de Software (QA) | Aseguramiento de Calidad y Automatización**
 
 Soy un Analista de Aseguramiento de Calidad de Software enfocado en el Ciclo de Vida de Desarrollo y Pruebas (SDLC/STLC). Mi objetivo principal es traducir los requisitos de negocio en escenarios de pruebas funcionales para prevenir defectos y asegurar el cumplimiento técnico.
 
@@ -194,7 +194,7 @@ Soy un Analista de Aseguramiento de Calidad de Software enfocado en el Ciclo de 
 
 ### [Hub de Portafolio de Ingeniería QA (Monorepo)](https://github.com/realleotavares/portfolio-qa)
 El hub central que demuestra la arquitectura completa de mi ecosistema de automatización a través de la pirámide de pruebas moderna. 
-🌍 **[Ver Hub de Reportes en Vivo](https://realleotavares.github.io/portfolio-qa/)** generado automáticamente por la pipeline CI/CD.
+**[Ver Hub de Reportes en Vivo](https://realleotavares.github.io/portfolio-qa/)** generado automáticamente por la pipeline CI/CD.
 
 ### [Arquitectura E2E con Playwright](https://github.com/realleotavares/portfolio-qa/tree/main/e2e-playwright)
 Un módulo de QA con estructura corporativa demostrando estrategias de pruebas y automatización frontend escalable.
