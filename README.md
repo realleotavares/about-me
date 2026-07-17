@@ -19,7 +19,7 @@ Sou um Analista de Garantia de Qualidade de Software focado no Ciclo de Vida de 
 - **Stack Técnica Principal:** Robot Framework, Python, SQL, Playwright e Jira.
 - Experiência em testes corporativos e em nuvem, incluindo ServiceNow ATF e Azure Cloud.
 - Proficiente na aplicação de metodologias **Scrum e Kanban** para otimizar os fluxos de trabalho de QA.
-- Atualmente atuo como **Coordenador de Qualidade Jr. na Welo Data**, executando auditorias de dados, testes cegos e Análise de Causa Raiz (RCA).
+- Atualmente atuo como **Analista de Qualidade na Welo Data**, executando auditorias de dados, testes cegos e Análise de Causa Raiz (RCA).
 - Consultor QA Independente na **[TAVARDT](https://github.com/TAVARDT)**, onde planejo e executo scripts de automação para aplicações web corporativas.
 
 ---
@@ -93,7 +93,7 @@ I am a Software Quality Assurance Analyst focused on the Software Development an
 - **Core Tech Stack:** Robot Framework, Python, SQL, Playwright, and Jira.
 - Experience with cloud and enterprise testing, including ServiceNow ATF and Azure Cloud.
 - Proficient in applying **Scrum and Kanban** methodologies to optimize QA workflows.
-- Currently working as a **Quality Coordinator Jr. @ Welo Data**, performing blind tests, data assurance, and Root Cause Analysis (RCA).
+- Currently working as a **Quality Analyst @ Welo Data**, performing blind tests, data assurance, and Root Cause Analysis (RCA).
 - Independent QA Consultant at **[TAVARDT](https://github.com/TAVARDT)**, planning and executing automation scripts for enterprise web applications.
 
 ---
@@ -167,7 +167,7 @@ Soy un Analista de Aseguramiento de Calidad de Software enfocado en el Ciclo de 
 - **Stack Tecnológico Principal:** Robot Framework, Python, SQL, Playwright y Jira.
 - Experiencia en pruebas corporativas y en la nube, incluyendo ServiceNow ATF y Azure Cloud.
 - Competente en la aplicación de metodologías **Scrum y Kanban** para optimizar los flujos de trabajo de QA.
-- Actualmente trabajo como **Coordinador de Calidad Jr. en Welo Data**, realizando auditorías de datos, pruebas ciegas y Análisis de Causa Raíz (RCA).
+- Actualmente trabajo como **Analista de Calidad en Welo Data**, realizando auditorías de datos, pruebas ciegas y Análisis de Causa Raíz (RCA).
 - Consultor QA Independiente en **[TAVARDT](https://github.com/TAVARDT)**, donde planifico y ejecuto scripts de automatización para aplicaciones web corporativas.
 
 ---
