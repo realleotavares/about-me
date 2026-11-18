@@ -9,7 +9,7 @@
 
 **Especialista em MarTech & Growth | Marketing Analytics, Dados e Automação**
 
-realleotavares@gmail.com • +55 84 99863-9650 • Natal/RN, Brasil • [linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
+[linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
 
 ---
 
@@ -98,7 +98,7 @@ Profissional com mais de 10 anos de experiência na interseção entre Marketing
 
 **MarTech & Growth Specialist | Marketing Analytics, Data & Automation**
 
-realleotavares@gmail.com • +55 84 99863-9650 • Natal/RN, Brazil • [linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
+[linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
 
 ---
 
@@ -187,7 +187,7 @@ Professional with over 10 years of experience at the intersection of Marketing, 
 
 **Especialista en MarTech & Growth | Marketing Analytics, Datos y Automatización**
 
-realleotavares@gmail.com • +55 84 99863-9650 • Natal/RN, Brasil • [linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
+[linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
 
 ---
 
