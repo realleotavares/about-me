@@ -1,86 +1,94 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Leonardo Tavares" width="1024" />
+  <a href="#português">Português</a> | <a href="#english">English</a> | <a href="#español">Español</a>
 </p>
 
-[Português](#português) | [English](#english) | [Español](#español)
+---
 
 <a id="português"></a>
 # Olá, eu sou Leonardo Tavares
 
-**Estrategista de Transformação Digital, Growth B2B & Inteligência Artificial | Fundador da TAVARDT & Autor Internacional**
+**Especialista em MarTech & Growth | Marketing Analytics, Dados e Automação**
 
-Atuo na convergência entre infraestrutura tecnológica resiliente, inteligência artificial preditiva/agêntica, cibersegurança e estratégias de crescimento em mercados corporativos. Meu foco é conectar engenharia de software de ponta, governança de dados e arquitetura MarTech para transformar operações e escalar ativos digitais de forma segura e mensurável.
-
----
-
-## Sobre Mim
-
-- Mais de 16 anos de vivência em tecnologia e mais de 7 anos liderando a **[TAVARDT](https://ag.tavardt.com)**, consultoria especializada em infraestrutura digital, cibersegurança e arquitetura de crescimento para operações de alto nível.
-- Experiência sólida em setores altamente regulados e de alta complexidade: coordenei as áreas de Marketing e TI na indústria de Petróleo e Gás (**PETRUS Oil & Gas** e **SQC Group**), reportando diretamente a C-levels com foco em conformidade estrita, gestão de risco operacional 24/7 e governança de dados.
-- Autor de 10 livros publicados internacionalmente em 7 idiomas (inglês, português, espanhol, alemão, francês, italiano e russo), distribuídos em plataformas globais como Amazon, Apple Books, Google Books, Barnes & Noble e Kobo. Essa trajetória consolidou um domínio aprofundado de storytelling corporativo, psicologia do consumidor e comunicação intercultural.
-- Pesquisador e implementador ativo de fluxos com Inteligência Artificial Agêntica, integrando o ecossistema Anthropic Claude (API, Claude Code, Model Context Protocol - MCP e Agent Skills) a pipelines operacionais e de tomada de decisão baseada em dados.
+realleotavares@gmail.com • +55 84 99863-9650 • Natal/RN, Brasil • [linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
 
 ---
 
-## Pilares de Atuação & Habilidades Técnicas
+## Resumo Profissional
 
-- **Inteligência Artificial & Agentic AI:** Ecossistema Claude (API, Claude Code, MCP, Agent Skills, Subagents), Engenharia de Prompts, Vibe Coding, LLMs em fluxos analíticos e automação de processos decisórios.
-- **Infraestrutura, Cloud & Resiliência:** Gestão e arquitetura de servidores Linux, OpenLiteSpeed/CyberPanel, isolamento de ambientes corporativos, Docker, automação de backup e protocolos rigorosos de Disaster Recovery.
-- **Borda & Cibersegurança:** Cloudflare Enterprise Edge (DNSSEC, WAF, mitigação DDoS L3/L4/L7, Workers, Page Rules), cabeçalhos estritos (CSP, HSTS Preload), blindagem de servidores, remediação de invasões e conformidade regulatória (LGPD, GDPR, CCPA).
-- **MarTech, Analytics & Automação B2B:** Modelagem e integridade de dados (SQL, Python), automação de CRM (Perfex, n8n), rastreamento avançado (GA4, GTM Server-Side), SEO técnico profundo e engenharia de aquisição de tráfego de alta intenção.
-- **Storytelling Estratégico & Localização:** Criação de narrativas autênticas, arquitetura de conteúdo multilíngue para 10 mercados regionais e produção editorial transmídia (físico, digital e áudio).
+Profissional com mais de 10 anos de experiência na interseção entre Marketing, Tecnologia e Dados. Especialista em arquitetar soluções de MarTech, implementar automações e alavancar o crescimento (Growth) de operações B2B através de estratégias guiadas por dados. Domínio em integrar ecossistemas complexos (CRMs, APIs, Cloud) com frameworks de marketing digital, SEO técnico e mídia programática. Liderança comprovada na aplicação de Inteligência Artificial para análise preditiva, otimização de conversão (CRO) e garantia de governança de dados (LGPD), sempre traduzindo desafios técnicos em resultados de negócios escaláveis e mensuráveis.
+
+---
+
+## Experiência Profissional
+
+### Consultor Independente | TAVARDT
+*out/2018 – Presente • Natal/RN, Brasil*
+- Lidero agência B2B integrando IA, infraestrutura de tecnologia e marketing estratégico.
+- Implementação de sistemas de IA para análise preditiva de KPIs, dashboards inteligentes com machine learning e automação de relatórios em tempo real.
+- Configuração e gestão de servidores cloud/on-premise focados em alta disponibilidade, SEO técnico e otimização da taxa de conversão (CRO).
+- Implementação de segurança multicamadas e compliance de dados (LGPD) integrados às operações de marketing.
+- Desenvolvimento de arquitetura de dados, campanhas de mídia programática e estratégias de inbound marketing com foco em ROI.
+
+### Coordenador de Marketing & TI | PETRUS Oil & Gas
+*mar/2016 – fev/2019 • Macaé/RJ, Brasil*
+- Estruturei e liderei as áreas de Marketing e TI, reportando diretamente a C-levels no setor de Petróleo e Gás.
+- Desenvolvimento de campanhas internacionais B2B e implementação de infraestrutura tecnológica corporativa para operações 24/7.
+- Gestão de orçamentos de tecnologia e marketing, traduzindo necessidades técnicas em linguagem de negócios para a diretoria.
+- Atuação focada em dados e compliance em um mercado altamente regulado e de alto risco operacional.
+
+### Coordenador de Marketing e Treinamentos | SQC Group Well Control Company
+*set/2014 – fev/2016 • Macaé/RJ, Brasil*
+- Gestão do planejamento completo de marketing, incluindo campanhas, SEO e desenvolvimento de website otimizado.
+- Coordenação de operações de treinamentos técnicos e credenciamento internacional (IADC e IWCF).
+- Estabelecimento de procedimentos de QSMS e relacionamento estratégico com grandes contratantes do setor.
+
+### Desenvolvedor Web & Analista de Marketing Digital | Autônomo
+*jun/2010 – ago/2014 • Natal/RN, Brasil*
+- Desenvolvimento de websites e landing pages, aliado à implementação de estratégias de SEO técnico avançado.
+- Gestão de campanhas pagas (Google Ads, Facebook Ads) e uso intensivo de Web Analytics para otimização de conversão.
+
+---
+
+## Competências Principais
+
+- **MarTech Stack & Integrações:** Automação de Marketing, CRM, Integração de APIs, Arquitetura Web, Gestão de Servidores Cloud.
+- **Marketing Analytics & Dados:** Google Analytics, Web Analytics, Modelagem de Dados, Data Lake, Dashboards Inteligentes, Decisão Data-Driven.
+- **Growth & Estratégia Digital:** SEO Técnico, Tráfego Pago, Mídia Programática, Inbound Marketing, Branding B2B, Email Marketing.
+- **IA & Automação:** Automação de Agentes, Machine Learning aplicado a Marketing, IA para Análise Preditiva, Engenharia de Prompt.
+- **Governança & Segurança:** LGPD, Privacidade de Dados na Publicidade, Firewall, WAF, IDS/IPS.
+- **Soft Skills:** Liderança, Gestão de Stakeholders, Storytelling B2B, Comunicação com C-levels.
 
 ---
 
 ## Formação Acadêmica
 
-- **Bacharelado em Análise e Desenvolvimento de Sistemas (ADS)** - UNINASSAU (Cursando)
-- **MBA em Marketing Digital e Vendas** - Descomplica Faculdade Digital
-- **Pós-graduação em Marketing e Growth** - Descomplica Faculdade Digital
-- **Bacharelado em Administração (Habilitação em Marketing)** - UNI-RN
-- **Intercâmbio de Idioma Inglês** - Omnicom Language School (Toronto, Canadá)
+- **Bacharelado em Análise e Desenvolvimento de Sistemas** – UNINASSAU (Cursando)
+- **Pós-graduação em Marketing e Growth** – Descomplica Faculdade Digital
+- **MBA em Marketing Digital e Vendas** – Descomplica Faculdade Digital
+- **Bacharelado em Administração com ênfase em Marketing** – UNI-RN
 
 ---
 
-## Certificações de Destaque
+## Certificações
 
-- **Anthropic:** Claude API, Claude Code, Model Context Protocol (MCP), Agent Skills, Subagents e AI Fluency Framework.
-- **Google:** Google Cybersecurity Professional Certificate & Google Data Analytics Professional Certificate.
-- **Microsoft:** AZ-400 Implement CI with Azure Pipelines and GitHub Actions.
-- **Atlassian:** Agile Project Management Professional Certificate.
-- **Inteligência Artificial & Dados:** Agentes Autônomos e Agentic AI (FIAP), Automação e Agentes de IA (Mackenzie), Machine Learning, LLMs e IA Generativa (DIO), Tomada de Decisões Guiadas por Dados (Mackenzie), Proteção de Dados (FGV).
-- **Segurança & Infraestrutura:** Fundamentals in Cybersecurity (Fortinet), Introdução à Cibersegurança e Redes (Cisco), Fundamentos de Cibersegurança (Santander).
-
----
-
-## Ecossistema e Projetos em Destaque
-
-### [TAVARDT | Boutique de Engenharia, Cibersegurança & Growth](https://ag.tavardt.com)
-Operação de consultoria digital e arquitetura de infraestrutura que une design minimalista a uma engenharia tecnológica rigorosa. Abrange cinco pilares: Cibersegurança perimetral, Desenvolvimento Web sob medida, Gestão de Mídia Paga com foco em ROI, Estratégia de Marca e Infraestrutura Resiliente em Nuvem.
-
-### [TAVARDT Diagnostic & Verification Suite](https://tools.tavardt.com)
-Suíte pública proprietária com mais de 20 ferramentas diagnósticas automatizadas para auditoria de segurança e performance:
-- **Segurança & Integridade:** Verificador de alinhamento DMARC/SPF/DKIM, Analisador de Security Headers (CSP/HSTS), Detector de SEO Spam e Scanner de Arquivos Sensíveis Expostos.
-- **Performance & SEO:** Benchmarking de Core Web Vitals em tempo real, Validador de Schema.org JSON-LD, Inspetor Hreflang de rotas internacionais e Calculadora de CAC/ROAS.
-
-### [Catálogo Editorial & Portal Multilíngue](https://leonardo-tavares.com)
-Ecossistema digital voltado para o bem-estar emocional e liderança humana, congregando 10 obras autorais distribuídas globalmente em 7 idiomas (português, inglês, espanhol, alemão, francês, italiano e russo). Operação suportada por uma arquitetura multirregional de alta performance distribuída em 12 instâncias e borda Cloudflare.
-
-### [Job Match ATS | Vibe Coding & Engenharia de IA](https://github.com/realleotavares/dio-lab-vibe-coding-app-job-ats)
-Aplicação web construída através de metodologia Vibe Coding e engenharia detalhada de prompts no Lovable. Realiza o cruzamento semântico entre requisitos de vagas e currículos de candidatos, otimizando termos e estrutura para aprovação técnica em sistemas ATS corporativos sem ferir preceitos éticos.
-
-### [Finanças Fácil | IA Conversacional & Design Universal](https://github.com/realleotavares/dio-lab-vibe-coding-app-financas)
-Protótipo funcional de assistente financeiro pessoal baseado em processamento de linguagem natural e princípios de Design Universal (WCAG). Permite lançamentos fluidos via chat, categorização automatizada de despesas e geração de relatórios visuais com foco em acessibilidade ampla.
-
----
-
-## Conexões & Contatos Oficiais
-
-- **LinkedIn:** [linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
-- **Portal Corporativo:** [ag.tavardt.com](https://ag.tavardt.com)
-- **Portal Pessoal:** [leonardo-tavares.com](https://leonardo-tavares.com)
-- **Suíte de Ferramentas:** [tools.tavardt.com](https://tools.tavardt.com)
-- **E-mail Direto:** realleotavares@gmail.com | leonardo@tavardt.com
+- Marketing Orientado a Dados e IA – USP
+- Analytics Certification – Google
+- Data Analytics Professional Certificate – Google / Coursera
+- Automação de Marketing – Santander
+- Métricas e Mensuração de Resultados no Ambiente Digital – PUCRS
+- Publicidade digital: Dados, IA e legalidade – Santander
+- SEO – Rock Content
+- Inbound Marketing – HubSpot Academy
+- Blueprint Certification – Meta (Facebook)
+- Anthropic Academy – Anthropic (Claude)
+- Automação e Agentes de IA – Mackenzie
+- Computação em Nuvem e Infraestrutura Virtualizada – Gran Faculdade
+- Customer Centricity e Experiência do Cliente – Santander
+- Tomada de Decisões Guiadas por Dados – Mackenzie
+- Compliance e Proteção de Dados – PUCRS
+- Transformação Digital nos Negócios – FIA
+- Project Management Professional Certificate – Google
+- Introduction to Marketing – Wharton University
 
 ---
 <br>
@@ -88,80 +96,88 @@ Protótipo funcional de assistente financeiro pessoal baseado em processamento d
 <a id="english"></a>
 # Hi, I'm Leonardo Tavares
 
-**Digital Transformation, B2B Growth & AI Strategist | Founder @ TAVARDT & International Author**
+**MarTech & Growth Specialist | Marketing Analytics, Data & Automation**
 
-I operate at the intersection of resilient technological infrastructure, predictive and agentic artificial intelligence, cybersecurity, and corporate growth strategies. My mission is to bridge the gap between advanced software engineering, data governance, and MarTech architecture to transform enterprise operations and scale digital assets securely and predictably.
-
----
-
-## About Me
-
-- Over 16 years of hands-on experience in technology and more than 7 years leading **[TAVARDT](https://ag.tavardt.com)**, a digital engineering consultancy, cyber defense practice, and growth architecture firm delivering mission-critical web applications.
-- Proven background in highly regulated, mission-critical industries: managed Marketing and IT departments within the Oil & Gas sector (**PETRUS Oil & Gas** and **SQC Group**), reporting directly to C-level executives with strict adherence to compliance, 24/7 operational continuity, and risk mitigation.
-- Published author of 10 books translated and localized into 7 languages (English, Portuguese, Spanish, German, French, Italian, and Russian), distributed globally across Amazon, Apple Books, Google Books, Barnes & Noble, and Kobo. This journey fostered an extensive mastery of corporate storytelling, consumer psychology, and cross-cultural communication.
-- Active researcher and practitioner in Agentic AI workflows, integrating the Anthropic Claude ecosystem (Claude API, Claude Code, Model Context Protocol - MCP, and Agent Skills) into operational pipelines and data-driven decision frameworks.
+realleotavares@gmail.com • +55 84 99863-9650 • Natal/RN, Brazil • [linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
 
 ---
 
-## Core Competencies & Technical Skills
+## Professional Summary
 
-- **Artificial Intelligence & Agentic AI:** Anthropic Claude Ecosystem (API, Claude Code, MCP, Agent Skills, Subagents), Prompt Engineering, Vibe Coding, LLMs for analytical pipelines, and automated agent workflows.
-- **Cloud Infrastructure & Reliability:** Linux server administration, OpenLiteSpeed/CyberPanel, shared-server isolation, Docker, backup automation, and disaster recovery planning.
-- **Edge Computing & Cybersecurity:** Cloudflare Enterprise Edge (DNSSEC, WAF, L3/L4/L7 volumetric mitigation, Workers, Page Rules), strict security headers (CSP, HSTS Preload), server hardening, intrusion remediation, and data privacy governance (GDPR, LGPD, CCPA).
-- **MarTech, Analytics & B2B Automation:** Data modeling and validation (SQL, Python), CRM automation (Perfex, n8n), advanced web telemetry (GA4, GTM Server-Side), technical SEO, and high-intent programmatic acquisition models.
-- **Strategic Storytelling & Localization:** Authentic narrative development, multilingual content architecture covering 10 regional locales, and transmedia editorial publishing (physical, ebook, and audiobook formats).
+Professional with over 10 years of experience at the intersection of Marketing, Technology, and Data. Specialist in architecting MarTech solutions, implementing automations, and leveraging the growth of B2B operations through data-driven strategies. Strong expertise in integrating complex ecosystems (CRMs, APIs, Cloud) with digital marketing frameworks, technical SEO, and programmatic media. Proven leadership in applying Artificial Intelligence for predictive analysis, conversion rate optimization (CRO), and ensuring data governance (LGPD/GDPR), always translating technical challenges into scalable and measurable business results.
+
+---
+
+## Professional Experience
+
+### Independent Consultant | TAVARDT
+*Oct/2018 – Present • Natal/RN, Brazil*
+- Lead a B2B agency integrating AI, technology infrastructure, and strategic marketing.
+- Implementation of AI systems for predictive KPI analysis, intelligent dashboards with machine learning, and real-time reporting automation.
+- Configuration and management of cloud/on-premise servers focused on high availability, technical SEO, and conversion rate optimization (CRO).
+- Implementation of multi-layered security and data compliance (LGPD/GDPR) integrated with marketing operations.
+- Development of data architecture, programmatic media campaigns, and inbound marketing strategies focused on ROI.
+
+### Marketing & IT Coordinator | PETRUS Oil & Gas
+*Mar/2016 – Feb/2019 • Macaé/RJ, Brazil*
+- Structured and led the Marketing and IT departments, reporting directly to C-levels in the Oil & Gas sector.
+- Development of international B2B campaigns and implementation of corporate technological infrastructure for 24/7 operations.
+- Management of technology and marketing budgets, translating technical needs into business language for the board.
+- Focused on data and compliance in a highly regulated and high operational risk market.
+
+### Marketing and Training Coordinator | SQC Group Well Control Company
+*Sep/2014 – Feb/2016 • Macaé/RJ, Brazil*
+- Managed comprehensive marketing planning, including campaigns, SEO, and optimized website development.
+- Coordinated technical training operations and international accreditation (IADC and IWCF).
+- Established QHSE (Quality, Health, Safety, and Environment) procedures and maintained strategic relationships with major sector contractors.
+
+### Web Developer & Digital Marketing Analyst | Freelance
+*Jun/2010 – Aug/2014 • Natal/RN, Brazil*
+- Development of websites and landing pages, combined with the implementation of advanced technical SEO strategies.
+- Management of paid campaigns (Google Ads, Facebook Ads) and intensive use of Web Analytics for conversion optimization.
+
+---
+
+## Core Competencies
+
+- **MarTech Stack & Integrations:** Marketing Automation, CRM, API Integration, Web Architecture, Cloud Server Management.
+- **Marketing Analytics & Data:** Google Analytics, Web Analytics, Data Modeling, Data Lake, Intelligent Dashboards, Data-Driven Decision Making.
+- **Growth & Digital Strategy:** Technical SEO, Paid Traffic, Programmatic Media, Inbound Marketing, B2B Branding, Email Marketing.
+- **AI & Automation:** Agent Automation, Machine Learning applied to Marketing, AI for Predictive Analysis, Prompt Engineering.
+- **Governance & Security:** LGPD/GDPR, Data Privacy in Advertising, Firewall, WAF, IDS/IPS.
+- **Soft Skills:** Leadership, Stakeholder Management, B2B Storytelling, C-Level Communication.
 
 ---
 
 ## Education
 
-- **Bachelor's Degree in Systems Analysis and Development (ADS)** - UNINASSAU (In Progress)
-- **MBA in Digital Marketing and Sales** - Descomplica Faculdade Digital
-- **Postgraduate Degree in Marketing and Growth** - Descomplica Faculdade Digital
-- **Bachelor's Degree in Business Administration (Marketing Emphasis)** - UNI-RN
-- **English Language Immersion Program** - Omnicom Language School (Toronto, Canada)
+- **Bachelor's Degree in Systems Analysis and Development** – UNINASSAU (In Progress)
+- **Postgraduate Degree in Marketing and Growth** – Descomplica Faculdade Digital
+- **MBA in Digital Marketing and Sales** – Descomplica Faculdade Digital
+- **Bachelor's Degree in Business Administration (Emphasis in Marketing)** – UNI-RN
 
 ---
 
-## Key Certifications
+## Certifications
 
-- **Anthropic:** Claude API, Claude Code, Model Context Protocol (MCP), Agent Skills, Subagents, and AI Fluency Foundations.
-- **Google:** Google Cybersecurity Professional Certificate & Google Data Analytics Professional Certificate.
-- **Microsoft:** AZ-400 Implement CI with Azure Pipelines and GitHub Actions.
-- **Atlassian:** Agile Project Management Professional Certificate.
-- **Artificial Intelligence & Data:** Autonomous Agents & Agentic AI (FIAP), AI Automation & Agents (Mackenzie), Machine Learning & LLMs (DIO), Data-Driven Decision Making (Mackenzie), Data Governance (FGV).
-- **Security & Networking:** Fundamentals in Cybersecurity (Fortinet), Introduction to Cybersecurity & Networking (Cisco), Cybersecurity Fundamentals (Santander).
-
----
-
-## Featured Projects & Ecosystem
-
-### [TAVARDT | Digital Engineering, Cybersecurity & Growth](https://ag.tavardt.com)
-A digital consultancy and infrastructure agency uniting minimalist design with uncompromising technological architecture. Operates across five core disciplines: Edge Cybersecurity, Bespoke Web Engineering, ROI-driven Paid Media, Brand Strategy, and Resilient Cloud Infrastructure.
-
-### [TAVARDT Diagnostic & Verification Suite](https://tools.tavardt.com)
-A public proprietary suite featuring over 20 automated diagnostic tools for security, technical SEO, and performance auditing:
-- **Security & Integrity:** DMARC/SPF/DKIM Alignment Validator, Security Headers Analyzer (CSP/HSTS), SEO Spam Detector, and Sensitive File Exposure Scanner.
-- **Performance & SEO:** Real-time Core Web Vitals Benchmark, Schema.org JSON-LD Validator, Hreflang Cross-Region Inspector, and CAC/ROAS Investment Calculator.
-
-### [Editorial Catalog & Multilingual Portal](https://leonardo-tavares.com)
-A global digital ecosystem dedicated to emotional wellness and human-centered leadership, featuring 10 independently published works localized into 7 languages. The technical operation runs on a high-performance multiregional architecture spanning 12 localized WordPress instances with Cloudflare edge caching.
-
-### [Job Match ATS | Vibe Coding & AI Architecture](https://github.com/realleotavares/dio-lab-vibe-coding-app-job-ats)
-A web application generated using Vibe Coding methodology and precise natural language engineering on Lovable. Conducts semantic matchmaking between job descriptions and candidate resumes, optimizing formatting and keywords for enterprise ATS screening while maintaining strict ethical boundaries.
-
-### [Finanças Fácil | Conversational AI & Universal Design](https://github.com/realleotavares/dio-lab-vibe-coding-app-financas)
-A personal finance assistant prototype driven by conversational natural language processing and Universal Design principles (WCAG). Enables intuitive expense logging via chat, automated categorization, and visual reporting designed for broad accessibility.
-
----
-
-## Official Links & Contact
-
-- **LinkedIn:** [linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
-- **Corporate Portal:** [ag.tavardt.com](https://ag.tavardt.com)
-- **Personal Portal:** [leonardo-tavares.com](https://leonardo-tavares.com)
-- **Diagnostic Suite:** [tools.tavardt.com](https://tools.tavardt.com)
-- **Direct Email:** realleotavares@gmail.com | leonardo@tavardt.com
+- Data-Driven Marketing and AI – USP
+- Analytics Certification – Google
+- Data Analytics Professional Certificate – Google / Coursera
+- Marketing Automation – Santander
+- Metrics and Results Measurement in the Digital Environment – PUCRS
+- Digital Advertising: Data, AI, and Legality – Santander
+- SEO – Rock Content
+- Inbound Marketing – HubSpot Academy
+- Blueprint Certification – Meta (Facebook)
+- Anthropic Academy – Anthropic (Claude)
+- Automation and AI Agents – Mackenzie
+- Cloud Computing and Virtualized Infrastructure – Gran Faculdade
+- Customer Centricity and Customer Experience – Santander
+- Data-Driven Decision Making – Mackenzie
+- Compliance and Data Protection – PUCRS
+- Digital Transformation in Business – FIA
+- Project Management Professional Certificate – Google
+- Introduction to Marketing – Wharton University
 
 ---
 <br>
@@ -169,77 +185,85 @@ A personal finance assistant prototype driven by conversational natural language
 <a id="español"></a>
 # Hola, soy Leonardo Tavares
 
-**Estratega de Transformación Digital, Growth B2B e Inteligencia Artificial | Fundador de TAVARDT y Autor Internacional**
+**Especialista en MarTech & Growth | Marketing Analytics, Datos y Automatización**
 
-Trabajo en la convergencia entre infraestructura tecnológica resiliente, inteligencia artificial predictiva y agéntica, ciberseguridad y estrategias de crecimiento corporativo. Mi objetivo es unir la ingeniería de software de vanguardia, la gobernanza de datos y la arquitectura MarTech para transformar operaciones empresariales y escalar activos digitales de forma segura y predecible.
-
----
-
-## Sobre Mí
-
-- Más de 16 años de trayectoria en el sector tecnológico y más de 7 años liderando **[TAVARDT](https://ag.tavardt.com)**, consultoría especializada en infraestructura digital, ciberseguridad y arquitectura de crecimiento para operaciones de alto nivel.
-- Sólida experiencia en sectores altamente regulados y de alta complejidad: coordiné las áreas de Marketing y TI en la industria de Petróleo y Gas (**PETRUS Oil & Gas** y **SQC Group**), reportando directamente a C-levels con estricto apego a normativas de cumplimiento, continuidad operativa 24/7 y mitigación de riesgos.
-- Autor de 10 libros publicados internacionalmente en 7 idiomas (español, inglés, portugués, alemán, francés, italiano y ruso), distribuidos en plataformas globales como Amazon, Apple Books, Google Books, Barnes & Noble y Kobo. Esta experiencia consolidó un dominio integral del storytelling corporativo, la psicología del consumidor y la comunicación intercultural aplicada a los negocios.
-- Investigador e implementador de flujos de Inteligencia Artificial Agéntica, integrando el ecosistema Anthropic Claude (API, Claude Code, Model Context Protocol - MCP y Agent Skills) en arquitecturas de automatización y toma de decisiones estratégicas.
+realleotavares@gmail.com • +55 84 99863-9650 • Natal/RN, Brasil • [linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
 
 ---
 
-## Pilares de Especialización y Competencias Técnicas
+## Resumen Profesional
 
-- **Inteligencia Artificial y Agentic AI:** Ecosistema Anthropic Claude (API, Claude Code, MCP, Agent Skills, Subagents), Ingeniería de Prompts, Vibe Coding, LLMs aplicados a modelos analíticos y flujos automatizados de agentes.
-- **Infraestructura Cloud y Resiliencia:** Administración de servidores Linux, OpenLiteSpeed/CyberPanel, aislamiento de entornos compartidos, Docker, automatización de copias de seguridad y protocolos de recuperación ante desastres (Disaster Recovery).
-- **Ciberseguridad y Edge Computing:** Cloudflare Enterprise Edge (DNSSEC, WAF, mitigación de ataques DDoS L3/L4/L7, Workers, Page Rules), cabeceras de seguridad estrictas (CSP, HSTS Preload), mitigación de intrusiones, auditoría de vulnerabilidades y cumplimiento normativo (GDPR, LGPD, CCPA).
-- **MarTech, Analítica y Automatización B2B:** Modelado e integridad de datos (SQL, Python), automatización de CRM (Perfex, n8n), telemetría web avanzada (GA4, GTM Server-Side), SEO técnico profundo y adquisición programática de alto impacto orientada a ROI.
-- **Storytelling Estratégico y Localización:** Desarrollo de narrativas de marca, estructuración de contenido multilingüe adaptado a 10 mercados geográficos y producción editorial transmedia (impreso, digital y audiolibros).
+Profesional con más de 10 años de experiencia en la intersección entre Marketing, Tecnología y Datos. Especialista en diseñar e implementar soluciones de MarTech, ejecutar automatizaciones y potenciar el crecimiento (Growth) de operaciones B2B mediante estrategias basadas en datos. Dominio en la integración de ecosistemas complejos (CRMs, APIs, Cloud) con marcos de marketing digital, SEO técnico y medios programáticos. Liderazgo comprobado en la aplicación de Inteligencia Artificial para análisis predictivo, optimización de la tasa de conversión (CRO) y garantía de gobernanza de datos (LGPD/GDPR), traduciendo siempre los desafíos técnicos en resultados de negocio escalables y cuantificables.
+
+---
+
+## Experiencia Profesional
+
+### Consultor Independiente | TAVARDT
+*oct/2018 – Presente • Natal/RN, Brasil*
+- Liderazgo de agencia B2B integrando IA, infraestructura tecnológica y marketing estratégico.
+- Implementación de sistemas de IA para análisis predictivo de KPIs, paneles inteligentes con machine learning y automatización de reportes en tiempo real.
+- Configuración y gestión de servidores cloud/on-premise enfocados en alta disponibilidad, SEO técnico y optimización de conversión (CRO).
+- Implementación de esquemas de seguridad multicapa y cumplimiento de privacidad de datos (LGPD/GDPR) integrados en las operaciones de marketing.
+- Desarrollo de arquitectura de datos, campañas en medios programáticos y estrategias de inbound marketing orientadas a ROI.
+
+### Coordinador de Marketing y TI | PETRUS Oil & Gas
+*mar/2016 – feb/2019 • Macaé/RJ, Brasil*
+- Estructuración y liderazgo de las áreas de Marketing y TI, reportando directamente a C-levels en la industria de Petróleo y Gas.
+- Desarrollo de campañas internacionales B2B e implementación de infraestructura tecnológica corporativa para operaciones ininterrumpidas 24/7.
+- Gestión de presupuestos de tecnología y marketing, traduciendo requerimientos técnicos a lenguaje ejecutivo para la junta directiva.
+- Enfoque analítico y de cumplimiento normativo en un mercado altamente regulado y de alto riesgo operacional.
+
+### Coordinador de Marketing y Capacitación | SQC Group Well Control Company
+*sep/2014 – feb/2016 • Macaé/RJ, Brasil*
+- Gestión de la planificación integral de marketing, incluyendo campañas, SEO y desarrollo de plataforma web optimizada.
+- Coordinación operativa de capacitaciones técnicas y procesos de acreditación internacional (IADC e IWCF).
+- Establecimiento de directrices de QSMS (Calidad, Salud, Seguridad y Medio Ambiente) y gestión de relaciones estratégicas con contratistas clave del sector.
+
+### Desarrollador Web y Analista de Marketing Digital | Independiente
+*jun/2010 – ago/2014 • Natal/RN, Brasil*
+- Desarrollo de sitios web y páginas de aterrizaje, junto con la implementación de estrategias avanzadas de SEO técnico.
+- Gestión de campañas de tráfico de pago (Google Ads, Facebook Ads) y uso exhaustivo de Web Analytics para optimización de conversiones.
+
+---
+
+## Competencias Principales
+
+- **MarTech Stack e Integraciones:** Automatización de Marketing, CRM, Integración de APIs, Arquitectura Web, Gestión de Servidores Cloud.
+- **Marketing Analytics y Datos:** Google Analytics, Analítica Web, Modelado de Datos, Data Lake, Paneles Inteligentes, Toma de Decisiones Basada en Datos.
+- **Growth y Estrategia Digital:** SEO Técnico, Tráfico de Pago, Medios Programáticos, Inbound Marketing, Branding B2B, Email Marketing.
+- **IA y Automatización:** Automatización de Agentes, Machine Learning aplicado a Marketing, IA para Análisis Predictivo, Ingeniería de Prompts.
+- **Gobernanza y Seguridad:** LGPD/GDPR, Privacidad de Datos en Publicidad, Firewall, WAF, IDS/IPS.
+- **Habilidades Interpersonales:** Liderazgo, Gestión de Stakeholders, Storytelling B2B, Comunicación con C-levels.
 
 ---
 
 ## Formación Académica
 
-- **Grado en Análisis y Desarrollo de Sistemas (ADS)** - UNINASSAU (En curso)
-- **MBA en Marketing Digital y Ventas** - Descomplica Faculdade Digital
-- **Especialización en Marketing y Growth** - Descomplica Faculdade Digital
-- **Licenciatura en Administración de Empresas (Énfasis en Marketing)** - UNI-RN
-- **Programa de Inmersión en Lengua Inglesa** - Omnicom Language School (Toronto, Canadá)
+- **Grado en Análisis y Desarrollo de Sistemas** – UNINASSAU (En curso)
+- **Especialización en Marketing y Growth** – Descomplica Faculdade Digital
+- **MBA en Marketing Digital y Ventas** – Descomplica Faculdade Digital
+- **Licenciatura en Administración de Empresas con énfasis en Marketing** – UNI-RN
 
 ---
 
-## Certificaciones Destacadas
+## Certificaciones
 
-- **Anthropic:** Claude API, Claude Code, Model Context Protocol (MCP), Agent Skills, Subagents y Fundamentos de Fluidez en IA.
-- **Google:** Google Cybersecurity Professional Certificate y Google Data Analytics Professional Certificate.
-- **Microsoft:** AZ-400 Implement CI with Azure Pipelines and GitHub Actions.
-- **Atlassian:** Agile Project Management Professional Certificate.
-- **Inteligencia Artificial y Datos:** Agentes Autónomos y Agentic AI (FIAP), Automatización y Agentes de IA (Mackenzie), Machine Learning y LLMs (DIO), Toma de Decisiones Guiadas por Datos (Mackenzie), Gobernanza y Protección de Datos (FGV).
-- **Seguridad y Redes:** Fundamentals in Cybersecurity (Fortinet), Introducción a Ciberseguridad y Redes (Cisco), Fundamentos de Ciberseguridad (Santander).
-
----
-
-## Ecosistema y Proyectos Destacados
-
-### [TAVARDT | Boutique de Ingeniería, Ciberseguridad y Growth](https://ag.tavardt.com)
-Consultoría digital y arquitectura de infraestructura que fusiona diseño minimalista con una ejecución técnica rigurosa. Abarca cinco pilares fundamentales: Ciberseguridad perimetral, Desarrollo Web a medida, Gestión de Medios de Pago enfocada en ROI, Estrategia de Marca e Infraestructura Resiliente en la Nube.
-
-### [TAVARDT Diagnostic & Verification Suite](https://tools.tavardt.com)
-Plataforma pública propietaria con más de 20 herramientas de diagnóstico automatizado para auditorías de seguridad y rendimiento web:
-- **Seguridad e Integridad:** Validador de alineación DMARC/SPF/DKIM, Analizador de Cabeceras de Seguridad (CSP/HSTS), Detector de SEO Spam y Escáner de Archivos Sensibles Expuestos.
-- **Rendimiento y SEO:** Medición en tiempo real de Core Web Vitals, Validador de Schema.org JSON-LD, Inspector Hreflang de rutas internacionales y Calculadora de CAC/ROAS.
-
-### [Catálogo Editorial y Portal Multilingüe](https://leonardo-tavares.com)
-Ecosistema digital enfocado en bienestar emocional y liderazgo humano, que reúne 10 obras publicadas globalmente en 7 idiomas (español, inglés, portugués, alemán, francés, italiano y ruso). La arquitectura técnica opera sobre 12 instancias regionales de alto rendimiento optimizadas en el borde de Cloudflare.
-
-### [Job Match ATS | Vibe Coding e Ingeniería de IA](https://github.com/realleotavares/dio-lab-vibe-coding-app-job-ats)
-Aplicación web diseñada mediante metodología Vibe Coding e ingeniería de prompts en Lovable. Realiza un cotejo semántico entre requisitos de ofertas de empleo y currículos, optimizando palabras clave y estructura para superar sistemas ATS corporativos con total apego ético.
-
-### [Finanças Fácil | IA Conversacional y Diseño Universal](https://github.com/realleotavares/dio-lab-vibe-coding-app-financas)
-Prototipo de asistente de finanzas personales basado en procesamiento de lenguaje natural y principios de Diseño Universal (WCAG). Facilita el registro de gastos mediante chat conversacional, clasificación automática y reportes visuales accesibles.
-
----
-
-## Conexiones y Enlaces Oficiales
-
-- **LinkedIn:** [linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
-- **Portal Corporativo:** [ag.tavardt.com](https://ag.tavardt.com)
-- **Portal Personal:** [leonardo-tavares.com](https://leonardo-tavares.com)
-- **Suite de Herramientas:** [tools.tavardt.com](https://tools.tavardt.com)
-- **Correo Electrónico:** realleotavares@gmail.com | leonardo@tavardt.com
+- Marketing Orientado a Datos e IA – USP
+- Certificación en Analytics – Google
+- Certificado Profesional en Data Analytics – Google / Coursera
+- Automatización de Marketing – Santander
+- Métricas y Medición de Resultados en Entornos Digitales – PUCRS
+- Publicidad Digital: Datos, IA y Legalidad – Santander
+- SEO – Rock Content
+- Inbound Marketing – HubSpot Academy
+- Certificación Blueprint – Meta (Facebook)
+- Anthropic Academy – Anthropic (Claude)
+- Automatización y Agentes de IA – Mackenzie
+- Computación en la Nube e Infraestructura Virtualizada – Gran Faculdade
+- Customer Centricity y Experiencia del Cliente – Santander
+- Toma de Decisiones Guiadas por Datos – Mackenzie
+- Compliance y Protección de Datos – PUCRS
+- Transformación Digital en los Negocios – FIA
+- Certificado Profesional en Gestión de Proyectos – Google
+- Introduction to Marketing – Wharton University
