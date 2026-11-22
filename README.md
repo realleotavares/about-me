@@ -1,4 +1,12 @@
 <p align="center">
+  <a href="https://www.linkedin.com/in/realleotavares/">
+    <img src="https://raw.githubusercontent.com/realleotavares/about-me/refs/heads/main/LeonardoTavares.png" alt="Leonardo Tavares" width="1024" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   <a href="#português">Português</a> | <a href="#english">English</a> | <a href="#español">Español</a>
 </p>
 
