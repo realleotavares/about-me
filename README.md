@@ -13,11 +13,9 @@
 ---
 
 <a id="português"></a>
-# Olá, eu sou Leonardo Tavares
+# Leonardo Tavares
 
 **Especialista em MarTech & Growth | Marketing Analytics, Dados e Automação**
-
-[linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
 
 ---
 
@@ -102,11 +100,9 @@ Profissional com mais de 10 anos de experiência na interseção entre Marketing
 <br>
 
 <a id="english"></a>
-# Hi, I'm Leonardo Tavares
+# Leonardo Tavares
 
 **MarTech & Growth Specialist | Marketing Analytics, Data & Automation**
-
-[linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
 
 ---
 
@@ -191,11 +187,9 @@ Professional with over 10 years of experience at the intersection of Marketing, 
 <br>
 
 <a id="español"></a>
-# Hola, soy Leonardo Tavares
+# Leonardo Tavares
 
 **Especialista en MarTech & Growth | Marketing Analytics, Datos y Automatización**
-
-[linkedin.com/in/realleotavares](https://www.linkedin.com/in/realleotavares/)
 
 ---
 
